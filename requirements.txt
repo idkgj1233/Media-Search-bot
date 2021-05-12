@@ -3,4 +3,4 @@ tgcrypto
 umongo==2.3.0
 motor==2.3.0
 dnspython
-python3 one_time_indexer.py
+one_time_indexer.py
