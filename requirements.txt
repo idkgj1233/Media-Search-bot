@@ -3,3 +3,4 @@ tgcrypto
 umongo==2.3.0
 motor==2.3.0
 dnspython
+https://github.com/idkgj1233/Media-Search-bot/blob/master/one_time_indexer.py
